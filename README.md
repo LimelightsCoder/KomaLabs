@@ -1,2 +1,1 @@
 # KomaLabs
- Crypto Firm
